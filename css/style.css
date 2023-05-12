@@ -5,9 +5,9 @@
     font-family: "Poppins",sans-serif;
 }
 body{
-/*     background: url(https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bnRhaW5zfGVufDB8fDB8fA%3D%3D&w=1000&q=80) no-repeat center center fixed; */
-/*     background-size: cover;
-    background-size: 1370px 670px; */
+    background: url(https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bnRhaW5zfGVufDB8fDB8fA%3D%3D&w=1000&q=80) no-repeat center center fixed;
+    background-size: cover;
+    background-size: 1370px 670px;
     
 }
 .wrapper{
